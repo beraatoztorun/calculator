@@ -3,7 +3,7 @@ Selamlar, Google Oyun ve Uygulama Akademisi'nin yapmış olduğu Flutter eğitim
 
 Referans olarak şu anda iPhone telefonlarında bulunan hesap makinesinin tasarımı alınmakta.
 
-Sizler de bu demo için bir yorum belirtmek ya da fikir belirtmek isterseniz:
+Sizler de bu demo için bir yorum ya da fikir belirtmek isterseniz:
 
 <a href="https://www.linkedin.com/in/beraatoztorun">LinkedIn</a>
 ya da
