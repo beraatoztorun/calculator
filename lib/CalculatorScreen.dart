@@ -165,7 +165,3 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
   }
 }
 
-void main() => runApp(MaterialApp(
-      home: CalculatorScreen(),
-      debugShowCheckedModeBanner: false,
-    ));
